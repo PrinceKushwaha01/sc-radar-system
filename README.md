@@ -2,7 +2,7 @@
 IoT-based real-time object detection and tracking system using Arduino UNO R4 WiFi with ultrasonic radar scanning, OLED visualization, and wireless web dashboard.
 # SC Radar System  
 
-📡 Project Overview
+ Project Overview
 
 SC Radar System is an embedded IoT project built using **Arduino UNO R4 WiFi**.  
 It detects objects in real-time using an ultrasonic sensor and displays results using:
@@ -15,7 +15,7 @@ This project simulates a real radar system for object detection and tracking.
 
 
 
-🎯 Features
+ Features
 
 - 180° scanning mechanism  
 - Real-time object detection  
@@ -26,7 +26,7 @@ This project simulates a real radar system for object detection and tracking.
 - Lightweight embedded system  
 
 
- 🧠 How It Works
+  How It Works
 
 Servo rotates → Ultrasonic sensor scans area → Arduino processes data →
 Display on OLED + Send data to Web Dashboard
@@ -34,7 +34,7 @@ Display on OLED + Send data to Web Dashboard
 
 
 
-🔧 Hardware Used
+ Hardware Used
 
 - Arduino UNO R4 WiFi  
 - HC-SR04 Ultrasonic Sensor  
@@ -45,7 +45,7 @@ Display on OLED + Send data to Web Dashboard
 
 
 
-💻 Software Used
+ Software Used
 
 - Arduino IDE  
 - WiFiS3 Library  
